@@ -1,0 +1,38 @@
+#head{
+    background-color: red;
+}
+
+#svp{
+    font-family: 'Tiro Devanagari Marathi', serif;
+}
+
+body{
+    background-color: sandybrown;
+}
+.s{
+    font-family: 'Tiro Devanagari Marathi', serif;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: underline;
+}
+.points{
+    margin-left: 40px;
+}
+#sl{
+    font-family: 'Tiro Devanagari Marathi', serif;
+
+}
+/* #know{
+    background-color: sienna;
+    margin-top: -10px;
+} */
+#pg{
+    font-family: 'Tiro Devanagari Marathi', serif;
+  
+}
+.accordion-item{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
